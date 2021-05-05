@@ -1,0 +1,27 @@
+.stepImg{
+    max-height: 250px;
+    max-width: 200px;
+    margin: 0.5rem 1rem;
+}
+#recipe_name {
+    background-image: url('/Contents/recipe_template.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: darkgray;
+    background-blend-mode: darken;
+  
+}
+.instr-bg{
+    background-color: transparent;
+    width: 95%;
+}
+.instrcont {
+    border-radius: 10px;
+    background-color: rgba(245,245,245,0.85);
+}
+.instr-bg p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:400;
+    
+}
