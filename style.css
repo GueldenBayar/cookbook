@@ -6,6 +6,11 @@ body{
     width: 100vw;
 }
 
+.card a{
+    text-decoration: none;
+    color: #3f3f44;
+}
+
 h1{
     text-align: center;
     padding: 20px 0;
