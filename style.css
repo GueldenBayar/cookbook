@@ -66,9 +66,20 @@ h1{
     
 }
 .social-icon{
-    width: 50px;
+    width: 40px;
 }
 .social{
     background-color: rgba(200,200,200,0.85);
     
+}
+.cooklogo{
+    width: 80px;
+    
+}
+.rezept{
+    font-size:1.4em;
+}
+.instr-vid{
+    width:450px;
+    height:450px;
 }
