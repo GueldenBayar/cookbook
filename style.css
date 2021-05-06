@@ -52,7 +52,7 @@ nav{
     justify-content: space-between;
     padding-top: 20px;
 }
-nav>img{
+nav>a>img{
     border-radius: 20px;
 }
 nav>ul{
